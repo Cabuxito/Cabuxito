@@ -1,4 +1,4 @@
- <h1 align="center">Hi there 👋 I'm Robert</h1>
+ <h1 align="center">Hi there 👋 I'm Brian</h1>
  
  <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pentr32&color=blueviolet" />
@@ -8,14 +8,10 @@
 <br><br>
 
 <div align="center">
- <h4> 🔭 Currently working as software engineer at Harman International in Bucharest, Romania. </h4>
- <h4> 🌱 Currently improving my python skills. </h4>
  <h4> 💬 Feel free to ask anything! </h4>
  <h4> 📫 You can always contact mere here down below: </h4>
 
- <a target="_blank" href="https://www.linkedin.com/in/robert-iulian-zaharia-63758a223/">
-    <img src="https://raw.githubusercontent.com/pentr32/pentr32/main/Capture232.PNG" />
- </a>
+
 </div>
 
 
